@@ -1,0 +1,48 @@
+h1 {
+    color:rgb(207, 207, 207);
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    line-height: 30px;
+}
+  h2 {
+    color:rgb(207, 207, 207);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    line-height: 30px;
+    font-style: italic;
+  }
+  body {
+    width: 100vw;
+    height: 200vh;
+    background-image: url(./raw_Nero\ AI_Photo_Face.png);
+    background-size: 200%;
+    background-repeat: no-repeat;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: left;
+     }
+#Cor_do_h3 {
+  color:rgb(207, 207, 207)
+}
+.Cor {
+  color:rgb(31, 31, 31)
+}
+ h3 {
+  color:rgb(207, 207, 207);
+  line-height: 30px;
+  font-size: 35px;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .pao-de-mel {
+    color: blueviolet;
+
+ }
+.paragrafos {
+    width: 80%;
+    height: 700px;
+    overflow: auto;
+    
+
+}
